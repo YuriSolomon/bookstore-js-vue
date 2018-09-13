@@ -2,8 +2,12 @@ body {
     background: #6c757d !important;
 }
 
-.col-6 {
+.logo {
     align-self: center;
+}
+
+.form-inline {
+    justify-content: flex-end;
 }
 
 .book {
@@ -21,6 +25,10 @@ body {
 
 .d-flex {
     background-color: #6c757d !important;
+}
+
+.form-control {
+    justify-self: flex-end;
 }
 
 /* hover-flip */
