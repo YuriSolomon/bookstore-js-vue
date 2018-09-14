@@ -30,8 +30,6 @@ function search() {
             item.style.display = "block";
         } else {
             item.style.display = "none";
-        }
-        
+        }  
     })
-    console.log(searchValue.value);
 }
